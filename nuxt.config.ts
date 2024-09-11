@@ -61,7 +61,7 @@ export default defineNuxtConfig({
                                 detectBrowserLanguage: false,
                 // detectBrowserLanguage: {
                 //     useCookie: true,
-                //     cookieKey: 'hogag_website_lang',
+                //     cookieKey: 'magic_tickets_website_lang',
                 //     alwaysRedirect: true,
                 //     fallbackLocale: 'ar'
                 // },

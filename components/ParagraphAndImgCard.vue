@@ -13,7 +13,7 @@
     </div>
     <img
       :src="item.image"
-      alt="hogag"
+      alt="magic-tickets"
       class="rounded-2xl max-w-[500px] ms-auto"
     />
   </div>

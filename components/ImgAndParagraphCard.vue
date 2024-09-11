@@ -2,7 +2,7 @@
   <div class="grid grid-cols-1 md:grid-cols-2 gap-5 mb-11">
     <img
       :src="item.image"
-      alt="Hogag"
+      alt="magic-tickets"
       class="md:max-w-[380px] max-w-[346px]"
       :class="item.title ? item.title : item.text"
     />

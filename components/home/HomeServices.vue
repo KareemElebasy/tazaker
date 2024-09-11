@@ -27,7 +27,7 @@
         </div>
         <img
           :src="service.image || '@/assets/images/service.jfif'"
-          alt="hogag"
+          alt="magic-tickets"
           class="rounded-2xl w-full max-w-[500px] md:ms-auto img_clippy"
         />
       </div>
@@ -61,14 +61,14 @@
         </div>
         <img
           :src="service.image"
-          alt="hogag"
+          alt="magic-tickets"
           class="rounded-2xl w-full max-w-[500px] ms-auto img_clippy"
         />
       </div> -->
       <div class="flex flex-col justify-center items-center gap-2" v-else>
         <img
           :src="service.image"
-          alt="hogag"
+          alt="magic-tickets"
           class="rounded-2xl w-full max-w-[500px] md:ms-auto m-auto img_clippy"
         />
         <nuxt-link

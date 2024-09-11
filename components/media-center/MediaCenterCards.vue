@@ -29,7 +29,7 @@
           <div class="flex items-center gap-2">
             <img
               src="~/assets/images/images/mediaCenter/downloadIcon.svg"
-              alt="media_center_hogag"
+              alt="magic-tickets"
               class="w-fit h-fit"
             />
             <p class="gold-text font-semibold">
@@ -40,13 +40,13 @@
         <div class="flex items-center gap-1">
           <img
             src="~/assets/images/images/mediaCenter/eyeIcon.svg"
-            alt="media_center_hogag"
+            alt="magic-tickets"
             class="w-fit h-fit"
           />
           <p>{{ item.views_number }}</p>
           <img
             src="~/assets/images/images/mediaCenter/installIcon.svg"
-            alt="media_center_hogag"
+            alt="magic-tickets"
             class="w-fit h-fit"
           />
           <p>{{ item.downloads_number }}</p>

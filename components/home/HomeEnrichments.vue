@@ -30,7 +30,7 @@
         <img
           class="w-fit h-fit" 
           :src="items.image"
-          alt="hogag"
+          alt="magic-tickets"
         />
       </div>
   </template>

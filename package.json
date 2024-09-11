@@ -1,5 +1,5 @@
 {
-  "name": "hogag-web",
+  "name": "magic-tickets-web",
   "private": true,
   "scripts": {
     "build": "nuxt build",

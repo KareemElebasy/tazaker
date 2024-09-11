@@ -63,7 +63,7 @@
     <div class="lg:col-span-6 col-span-12">
       <img
         src="~/assets/images/images/contactusForm.png"
-        alt="about_hogag"
+        alt="magic-tickets"
         class="w-full h-full"
       />
     </div>

@@ -41,7 +41,7 @@
             :src="home.statistics.background.background"
             :width="home.statistics.background.width"
             :height="home.statistics.background.height"
-            alt="Hogag"
+            alt="magic-tickets"
             class="w-fit h-fit md:block hidden"
           />
         </div> -->

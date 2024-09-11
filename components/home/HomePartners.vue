@@ -30,7 +30,7 @@
               height="120"
               width="100"
               :src="partner.logo"
-              alt="partner_for_hogag"
+              alt="magic-tickets"
               class="w-full h-24 object-contain gap-1"
             />
           </div>

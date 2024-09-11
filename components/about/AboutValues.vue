@@ -13,7 +13,7 @@
         <img
           class="m-auto mb-3 w-[100px] h-[100px] rounded-full"
           :src="value.image || '~/assets/images/images/Frame3.svg'"
-          alt="values about hogag website"
+          alt="values about magic-tickets website"
         />
       </div>
     </div>

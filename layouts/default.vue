@@ -21,7 +21,7 @@ useHead({
     {
       hid: "description",
       name: "description",
-      content: "Hogag App Desc Will Go Here",
+      content: "Magic Tickets App Desc Will Go Here",
     },
   ],
 });
